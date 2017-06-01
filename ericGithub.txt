@@ -1,1 +1,2 @@
 readMe
+This is Erica'a readMe file.
